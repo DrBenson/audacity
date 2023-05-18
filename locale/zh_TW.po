@@ -18,7 +18,11 @@ msgstr ""
 "Project-Id-Version: audacity 3.0.3\n"
 "Report-Msgid-Bugs-To: audacity-translation@lists.sourceforge.net\n"
 "POT-Creation-Date: 2023-04-05 16:57+0300\n"
+<<<<<<< HEAD
 "PO-Revision-Date: 2023-05-17 22:39+0800\n"
+=======
+"PO-Revision-Date: 2023-05-18 19:19+0800\n"
+>>>>>>> master
 "Last-Translator: DrBenson <Benson.Dr@GMail.com>\n"
 "Language-Team: Chinese (Taiwan) (https://app.transifex.com/klyok/teams/690/zh_TW/)\n"
 "Language: zh_TW\n"
@@ -3113,6 +3117,12 @@ msgstr "關於 Audacity(&A)..."
 #: src/AudacityApp.cpp
 msgid "&Preferences..."
 msgstr "偏好設定 &P..."
+
+msgid "Preferences...\tCtrl+P"
+msgstr "偏好設定(&P)...\tCtrl+P"
+
+msgid "Preferences..."
+msgstr "偏好設定..."
 
 #: src/AudacityApp.cpp src/menus/FileMenus.cpp
 msgid "&File"
